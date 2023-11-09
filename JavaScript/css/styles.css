@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+#contador {
+    font-size: 2em;
+    margin: 20px;
+    transition: color 0.3s ease-in-out;
+}
+
+#botonClic, #botonReiniciar {
+    font-size: 1em;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#objetivoInput {
+    padding: 5px;
+}
